@@ -1,12 +1,56 @@
-# [Course 1: Product Management: An Introduction](https://www.coursera.org/learn/product-management-an-introduction)
-- **Week 1: Product Manager Profession Overview**:
-    - In this module, you will learn about the role of the product manager and the key skills that are important for success. You will learn about a product manager's responsibilities and persona. You will also list the skills, knowledge, and business acumen required to be an effective product manager.
-- **Week 2: The Product Lifecycle and the Product Manager**:
-    - In this module, you will be introduced to product and product management. You will learn about what a product is and what a typical day in the life of a product manager looks like. You will also learn which personality traits are most critical for a product manager, what the role of a product manager looks like in an organization, and what kind of challenges the product managers face. Next, you will focus on the life cycle of a product. You will learn about the four phases of the product lifecycle, the seven-step product management lifecycle, and the key deliverables of the product management life cycle. You will also learn about the most critical tasks product managers accomplish, the key functional area expertise that they must have, and the key roles and stakeholders they must collaborate with.
-- **Week 3: Product Management Fundamentals**:
-    - In this module, you will learn about the fundamental concepts of product management. It focuses on value creation. You will learn about value creation and entrepreneurship and the connection between a product manager and an entrepreneur. You will also learn about critical thinking and the product manager. It also introduces you to the product management and marketing body of knowledge or ProdBOK. It has a practice quiz on product management opportunities. It also focuses on the link between portfolio management and project management. You will learn about the portfolio approach, its benefits and challenges, and the challenges to develop a product strategy effectively. You will also learn where the roles of a product manager and project manager intersect. It also covers project management’s predictive and adaptive lifecycles and a product manager’s role.
-- **Week 4: Product Management Opportunities and Certifications**:
-    - In this module, you will explore the product management opportunities and certifications. It summarizes the current employment opportunities in today’s work environment and covers the Product Management and Marketing Body of Knowledge (ProdBOK) and the Association of International Product Marketing and Management (AIPMM). You will also learn about the best way to prepare for a product manager role and the background experience required to become a product manager. It also covers certifications and resume building. You will learn about the certificates available in the product management career.
-- **Week 5: Final Project, Assessment and Course Wrap-up**:
-    - Welcome to Module 5. This module introduces your final project. You will analyze a product management scenario, after that, you are expected to give a retrospective of the team's successes and areas of improvement related to the product development team. Additionally, you will attempt a 20-question graded quiz to assess your comprehension of the key concepts taught in the course. We end the module with our congratulations and recommend the next steps to continue your product management journey.
+**1.** Product management typically discover and evaluate a customer’s need by:
+- [x] Through relentless research and study of customer needs.
+- [ ] Employee suggestions.
+- [ ] Customers contact the company and provide requirements. 
+- [ ] A single focus group meeting.
 
+**2.** How does a lack of product management strategy impact a company? 
+- [ ] It forces the company to take a project management approach. 
+- [x] It limits their ability to place a product strategically. 
+- [ ] Merge with other companies to produce products by volume.
+- [ ] Nothing, Product Management is an optional exercise. 
+
+**3.** A successful product manager should have which of the following abilities?
+- [ ] Having detailed insight into how their competitor’s intellectual property
+- [ ] Using instinct to develop a product
+- [x] Knowing a little bit about each functional area that supports the effort
+- [ ] Having a firm grasp on executive decision making
+
+**4.** Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)
+- [x] Deploying the model into the infrastructure and integrating it with the application.
+- [x] Defining the problem and identifying relevant datasets.
+- [ ] Performing regularization
+- [x] Manipulating the model to align with specific project needs.
+- [x] Selecting a candidate model and potentially pre-training a custom model.
+
+**5.** "RNNs are better than Transformers for generative AI Tasks."
+
+Is this true or false?
+- [ ] True
+- [x] False
+
+**6.** Which transformer-based model architecture has the objective of guessing a masked token based on the previous sequence of tokens by building bidirectional representations of the input sequence.
+- [x] Autoencoder
+- [ ] Autoregressive
+- [ ] Sequence-to-sequence
+
+**7.** Which transformer-based model architecture is well-suited to the task of text translation?
+- [ ] Autoencoder
+- [ ] Autoregressive
+- [x] Sequence-to-sequence
+
+**8.** Do we always need to increase the model size to improve its performance?
+- [ ] True
+- [x] False
+
+**9.** Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices. Select all alternatives that should be considered for scaling when performing model pre-training?
+- [ ]Batch size: Number of samples per iteration 
+- [x] Model size: Number of parameters
+- [x] Dataset size: Number of tokens
+- [x] Compute budget: Compute constraints
+
+**10.** "You can combine data parallelism with model parallelism to train LLMs."
+
+Is this true or false?
+- [x] True
+- [ ] False

@@ -65,12 +65,10 @@ Table of contents
 - **Week 1: Product Management Communication and Collaboration Fundamentals**:
     - Module 1 provides valuable insights into the foundational skills required for success in the field of product management. It consists of two lessons. Lesson 1, "Effective Collaboration and Stakeholder Engagement," emphasizes the importance of fostering productive collaborations and engaging stakeholders effectively. Lesson 2, "Communication Skills Inventory," focuses on evaluating and enhancing your communication abilities, a fundamental requirement for success in the role of Product Managers.
 
-<a name="course2week2"/>
 
 - **Week 2: Business Development and the Product Manager**:
     - Module 2 offers a deep dive into Product Management and Business Development. Lesson 1 explores "Product Levels and Segmentation," covering Kotler's Five Levels of a Product and Market Segmentation. In Lesson 2, "Product Management, Business Development, and Strategy," you'll learn about the Product Manager's role in business development, SWOT analysis, Porter's 5 Forces Model for market assessment, and product planning and strategy. The Hands-on labs apply these concepts, and the module concludes with quizzes and a glossary.
 
-<a name="course2week3"/>
 
 - **Week 3: Driving Strategy and Innovation**:
     - In Module 3, you will learn about driving strategy and innovation. Lesson 1 focuses on innovation, offering insights into various methodologies and challenges, while lesson 2 immerses you in analytical thinking, abstract skills, and the collaborative relationship between product managers and business analysts.

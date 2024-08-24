@@ -17,9 +17,9 @@ Table of contents
 <!--te-->
 # [Course 1: Product Management: An Introduction](https://www.coursera.org/learn/product-management-an-introduction)
 ## **Week 1: Product Manager Profession Overview**:
-    - In this module, you will learn about the role of the product manager and the key skills that are important for success. You will learn about a product manager's responsibilities and persona. You will also list the skills, knowledge, and business acumen required to be an effective product manager.
-    - [Practice: The Role of the Product Manager](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W1/Practice-The%20Role%20of%20the%20Product%20Manager.md)
-    - [Week 1 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W1/Week-1-Quiz.md)
+- In this module, you will learn about the role of the product manager and the key skills that are important for success. You will learn about a product manager's responsibilities and persona. You will also list the skills, knowledge, and business acumen required to be an effective product manager.
+- [Practice: The Role of the Product Manager](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W1/Practice-The%20Role%20of%20the%20Product%20Manager.md)
+- [Week 1 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W1/Week-1-Quiz.md)
 ## **Week 2: The Product Lifecycle and the Product Manager**:
     - In this module, you will be introduced to product and product management. You will learn about what a product is and what a typical day in the life of a product manager looks like. You will also learn which personality traits are most critical for a product manager, what the role of a product manager looks like in an organization, and what kind of challenges the product managers face. Next, you will focus on the life cycle of a product. You will learn about the four phases of the product lifecycle, the seven-step product management lifecycle, and the key deliverables of the product management life cycle. You will also learn about the most critical tasks product managers accomplish, the key functional area expertise that they must have, and the key roles and stakeholders they must collaborate with.
     - [Practice: Product and Product Management](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W2/Practice-Product%20and%20Product%20Management.md)

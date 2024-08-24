@@ -19,4 +19,5 @@
     - [Week 4 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W4/Week-4-Quiz.md)
 - **Week 5: Final Project, Assessment and Course Wrap-up**:
     - Welcome to Module 5. This module introduces your final project. You will analyze a product management scenario, after that, you are expected to give a retrospective of the team's successes and areas of improvement related to the product development team. Additionally, you will attempt a 20-question graded quiz to assess your comprehension of the key concepts taught in the course. We end the module with our congratulations and recommend the next steps to continue your product management journey.
+    - [Final Exam](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W5/Final-Exam.md)
 

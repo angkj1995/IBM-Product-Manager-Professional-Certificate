@@ -8,7 +8,7 @@ Table of contents
       * [Week 3: Product Management Fundamentals](#course1week3)
       * [Week 4: Product Management Opportunities and Certifications](#course1week4)
       * [Week 5: Final Project, Assessment and Course Wrap-up](#course1week5)
-    * [Course 2: Product Management: Foundations & Stakeholder Collaboration](#course2)
+   * [Course 2: Product Management: Foundations & Stakeholder Collaboration](#course2)
       * [Week 1: Product Management Communication and Collaboration Fundamentals](#course2week1)
       * [Week 2: Business Development and the Product Manager](#course2week2)
       * [Week 3: Driving Strategy and Innovation](#course2week3)

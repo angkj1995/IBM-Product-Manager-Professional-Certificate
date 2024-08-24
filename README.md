@@ -59,26 +59,13 @@ Table of contents
 <a name="course2"/>
 
 # [Course 2: Product Management: Foundations & Stakeholder Collaboration](https://www.coursera.org/learn/product-management-foundations-and-stakeholder-collaboration)
-
-<a name="course2week1"/>
-
 - **Week 1: Product Management Communication and Collaboration Fundamentals**:
     - Module 1 provides valuable insights into the foundational skills required for success in the field of product management. It consists of two lessons. Lesson 1, "Effective Collaboration and Stakeholder Engagement," emphasizes the importance of fostering productive collaborations and engaging stakeholders effectively. Lesson 2, "Communication Skills Inventory," focuses on evaluating and enhancing your communication abilities, a fundamental requirement for success in the role of Product Managers.
-
-
 - **Week 2: Business Development and the Product Manager**:
     - Module 2 offers a deep dive into Product Management and Business Development. Lesson 1 explores "Product Levels and Segmentation," covering Kotler's Five Levels of a Product and Market Segmentation. In Lesson 2, "Product Management, Business Development, and Strategy," you'll learn about the Product Manager's role in business development, SWOT analysis, Porter's 5 Forces Model for market assessment, and product planning and strategy. The Hands-on labs apply these concepts, and the module concludes with quizzes and a glossary.
-
-
 - **Week 3: Driving Strategy and Innovation**:
     - In Module 3, you will learn about driving strategy and innovation. Lesson 1 focuses on innovation, offering insights into various methodologies and challenges, while lesson 2 immerses you in analytical thinking, abstract skills, and the collaborative relationship between product managers and business analysts.
-
-<a name="course2week4"/>
-
 - **Week 4: Understanding Communication Styles**:
     - Different people communicate in different ways, so it’s important to understand communication styles. Lesson 1 of this module introduces the different types of communication styles and gives you the opportunity to discover your style. Lesson 2 underlines the importance of team communication as well as public relations and media planning.
-
-<a name="course2week5"/>
-
 - **Week 5: Course Summary and Final Assessment**:
     - In this module, you will complete a final project where you will review a scenario, develop an Elevator Speech, analyze market forces using the Five Forces framework, explore Product Management skills, and develop an initial public relations plan. Additionally, you will attempt a graded exam designed to evaluate your understanding of Product Management.

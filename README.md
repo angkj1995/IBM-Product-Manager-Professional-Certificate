@@ -15,6 +15,8 @@
     - [Week 3 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W3/Week-3-Quiz.md)
 - **Week 4: Product Management Opportunities and Certifications**:
     - In this module, you will explore the product management opportunities and certifications. It summarizes the current employment opportunities in today’s work environment and covers the Product Management and Marketing Body of Knowledge (ProdBOK) and the Association of International Product Marketing and Management (AIPMM). You will also learn about the best way to prepare for a product manager role and the background experience required to become a product manager. It also covers certifications and resume building. You will learn about the certificates available in the product management career.
+    - [Practice: Product Management Opportunities](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W4/Practice-Product%20Management%20Opportunities.md)
+    - [Week 4 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-1/W4/Week-4-Quiz.md)
 - **Week 5: Final Project, Assessment and Course Wrap-up**:
     - Welcome to Module 5. This module introduces your final project. You will analyze a product management scenario, after that, you are expected to give a retrospective of the team's successes and areas of improvement related to the product development team. Additionally, you will attempt a 20-question graded quiz to assess your comprehension of the key concepts taught in the course. We end the module with our congratulations and recommend the next steps to continue your product management journey.
 

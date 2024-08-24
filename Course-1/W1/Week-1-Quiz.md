@@ -16,41 +16,44 @@
 - [x] Knowing a little bit about each functional area that supports the effort
 - [ ] Having a firm grasp on executive decision making
 
-**4.** Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)
-- [x] Deploying the model into the infrastructure and integrating it with the application.
-- [x] Defining the problem and identifying relevant datasets.
-- [ ] Performing regularization
-- [x] Manipulating the model to align with specific project needs.
-- [x] Selecting a candidate model and potentially pre-training a custom model.
+**4.** Why is it important for a product to represent a brand well?
+- [ ] Brands are created based on a product.
+- [ ] It does not matter. Customers associate brands and products separately.
+- [ ] So that customers can be impressed.
+- [x] It maintains the image of a company. 
 
-**5.** "RNNs are better than Transformers for generative AI Tasks."
+**5.** Which two skills should a product manager have?
+- [ ] Predictability and writing
+- [ ] Operations and mechanical ability
+- [ ] Communication and drawing
+- [x] Communication and collaboration
 
-Is this true or false?
-- [ ] True
-- [x] False
+**6.** Product Managers should understand the thought process for decision-making of ______________ and_______________.
+- [ ] The supplier and programmer
+- [ ] Another product manager and their supervisor
+- [x] Executives and customers
+- [ ] Finance and the shop floor supervisor
 
-**6.** Which transformer-based model architecture has the objective of guessing a masked token based on the previous sequence of tokens by building bidirectional representations of the input sequence.
-- [x] Autoencoder
-- [ ] Autoregressive
-- [ ] Sequence-to-sequence
+**7.** Which statement is true regarding implementation of an iterative product development approach?
+- [ ] Products can enter the market at any time, there is no deadline or premature product release.
+- [ ] Epic stories are automatically put first in the product backlog.
+- [x] The product backlog is ordered by importance.
+- [ ] The stories at the bottom of the backlog are the most detailed.
 
-**7.** Which transformer-based model architecture is well-suited to the task of text translation?
-- [ ] Autoencoder
-- [ ] Autoregressive
-- [x] Sequence-to-sequence
+**8.** Examples of products/companies that most require a product manager include:
+- [ ] A single restaurant that does take-out orders only.
+- [x] A carpet manufacturing company that sells carpet and a host of cleaning and maintenance products services.
+- [ ] Individual products that are sold in 12 and 24 pack units.
+- [ ] A small business with one product.
 
-**8.** Do we always need to increase the model size to improve its performance?
-- [ ] True
-- [x] False
+**9.** Products target which of the following groups?
+- [ ] People who do not have a need
+- [x] Individual Consumers and businesses or other organizations
+- [ ] Companies looking for a competitive market
+- [ ] Project managers looking for the next project.
 
-**9.** Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices. Select all alternatives that should be considered for scaling when performing model pre-training?
-- [ ]Batch size: Number of samples per iteration 
-- [x] Model size: Number of parameters
-- [x] Dataset size: Number of tokens
-- [x] Compute budget: Compute constraints
-
-**10.** "You can combine data parallelism with model parallelism to train LLMs."
-
-Is this true or false?
-- [x] True
-- [ ] False
+**10.** How soon should a product manager move away from a product?
+- [ ] When the product no longer holds interest of the product manager
+- [x] At the end of the lifecycle of the product
+- [ ] As soon as another product needs to be developed
+- [ ] When theteam moves to a different product.

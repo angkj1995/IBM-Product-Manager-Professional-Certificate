@@ -60,6 +60,8 @@ Table of contents
 
 # [Course 2: Product Management: Foundations & Stakeholder Collaboration](https://www.coursera.org/learn/product-management-foundations-and-stakeholder-collaboration)
 
+<a name="course2week1"/>
+
 - **Week 1: Product Management Communication and Collaboration Fundamentals**:
     - Module 1 provides valuable insights into the foundational skills required for success in the field of product management. It consists of two lessons. Lesson 1, "Effective Collaboration and Stakeholder Engagement," emphasizes the importance of fostering productive collaborations and engaging stakeholders effectively. Lesson 2, "Communication Skills Inventory," focuses on evaluating and enhancing your communication abilities, a fundamental requirement for success in the role of Product Managers.
 

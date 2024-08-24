@@ -4,7 +4,7 @@ Table of contents
 <!--ts-->
    * [Course 1: Product Management: An Introduction](#course1)
 <!--te-->
-
+<a name="course1"/>
 # [Course 1: Product Management: An Introduction](https://www.coursera.org/learn/product-management-an-introduction)
 - **Week 1: Product Manager Profession Overview**:
     - In this module, you will learn about the role of the product manager and the key skills that are important for success. You will learn about a product manager's responsibilities and persona. You will also list the skills, knowledge, and business acumen required to be an effective product manager.

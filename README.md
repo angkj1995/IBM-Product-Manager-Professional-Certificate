@@ -4,7 +4,7 @@ Table of contents
 <!--ts-->
    * [Course 1: Product Management: An Introduction](#course1)
       * [Week 1: Product Manager Profession Overview](#course1week1)
-      * [Week 2: The Product Lifecycle and the Product Manager](#course1week1)
+      * [Week 2: The Product Lifecycle and the Product Manager](#course1week2)
 <!--te-->
 
 <a name="course1"/>

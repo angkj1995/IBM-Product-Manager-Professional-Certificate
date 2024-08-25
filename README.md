@@ -14,6 +14,12 @@ Table of contents
       * [Week 3: Driving Strategy and Innovation](#course2week3)
       * [Week 4: Understanding Communication Styles](#course2week4)
       * [Week 5: Course Summary and Final Assessment](#course2week5)
+   * [Course 3: Product Management: Initial Product Strategy and Plan](#course3)
+      * [Week 1: Product Conception and Planning Overview](#course3week1)
+      * [Week 2: Product Concept Identification](#course3week2)
+      * [Week 3: Product Concept Investigation](#course3week3)
+      * [Week 4: Product Plan Phase](#course3week4)
+      * [Week 5: Course Summary and Final Assessment](#course3week5)
 <!--te-->
 
 
@@ -67,3 +73,30 @@ Table of contents
 - [Scenario: Cam Car Product Development](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-2/W5/Scenario-Cam%20Car%20Product%20Development.md)
 - [Final Project](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-2/W5/Final%20Project.md)
 - [Final Exam](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-2/W5/Final-Exam.md)
+
+
+# <a name='course3'><a/>[[Course 3: Product Management: Initial Product Strategy and Plan](https://www.coursera.org/learn/product-management-initial-product-strategy-and-plan)
+## <a name='course3week1'><a/>**Week 1: Product Conception and Planning Overview**
+- You will begin the module with a quick review of the Product Management Lifecycle. The module then introduces the Product Conceive and Plan phases. You will then get an overview of the product concept identification process. Next, you will perform product external and internal assessment and record your findings in a SWOT template in a hands-on lab. In the next lesson, you will develop product strategy activities and options and learn the contents of the Product Concept document and how to gain approval of the document. Finally, you will attempt a quiz to practice everything you have learned in the module.
+- [Practice: Product Internal and External Analysis](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W1/Practice-Product%20Internal%20and%20External%20Analysis.md)
+- [Practice: Developing Product Strategy Options and The Product Concept](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W1/Practice-Developing%20Product%20Strategy%20Options%20and%20The%20Product%20Concept.md)
+- [Week 1 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W1/Week-1-Quiz.md)
+## <a name='course3week2'><a/>**Week 2: Product Concept Identification**
+- You will begin the module with an overview of the product management team and team-building challenges a Product Manager may face. A team building checklist identifies key requirements to effectively build a team. This segment ends with a brief review of a common team-building model named the Tuckman Ladder. Next, the module describes the Project Charter concept, shares an example, and walks you through the contents of the Project Charter. You will create a Project Charter in a hands-on lab. You will identify the goals and questions that need to be addressed when conducting a marketing investigation and perform a quick review of personas. You will learn how to perform a competitive analysis. This will be followed by an introduction to the Market Requirements Document (MRD). Subject Matter Experts (SME) will share insights on the concepts learned in the module. A practice quiz at the end of each lesson will test the concepts learned in the module. A graded exam at the end of the module will further test your knowledge.
+- [Practice: Investigation Phase Establish the Team and Develop Initial Project Charter](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W2/Practice-Investigation%20Phase%20Establish%20the%20Team%20and%20Develop%20Initial%20Project%20Charter.md)
+- [Practice: Investigation Phase Perform Market Investigation and Investigate the Solution](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W2/Practice-Investigation%20Phase%20Perform%20Market%20Investigation%20and%20Investigate%20the%20Solution.md)
+- [Week 2 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W2/Week-2-Quiz.md)
+## <a name='course3week3'><a/>**Week 3: Product Concept Investigation**
+- You will begin the module with a summary of marketing feedback goals and what the Product Manager can likely expect in terms of responses. You will then define the Product Vision, and the importance of developing a value proposition to effectively position your product. Next, you will learn how to create a preliminary launch strategy and identify product risks. The next lesson will share updates that are required to the Initial Project Charter and ideas on the importance of this document. You will identify the purpose and contents of a Product Business Case. In a hands-on lab, you will develop a Business Case. Subject Matter Experts (SME) will share insights on the concepts learned in the module. A practice quiz at the end of each lesson will test the concepts learned in the module. A graded exam at the end of the module will further test your knowledge.
+- [Practice: Investigation Phase Obtain Market Feedback and Develop a Marketing Strategy](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W3/Practice-Investigation%20Phase%20Obtain%20Market%20Feedback%20and%20Develop%20a%20Marketing%20Strategy.md)
+- [Practice: Updating the Project Charter and Developing the Initial Product Business Case](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W3/Practice-Updating%20the%20Project%20Charter%20and%20Developing%20the%20Initial%20Product%20Business%20Case.md)
+- [Week 3 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W3/Week-3-Quiz.md)
+## <a name='course3week4'><a/>**Week 4: Product Plan Phase**
+- Module 4 introduces the Plan Phase of product management. This module discusses the Product Manager’s role, and key activities, including planning, marketing, and business case updates. You will learn the components and develop a Product Roadmap in a hands-on lab. You will discover the components and how functional plans support the development plan. You will determine the required updates to the marketing and launch strategies and perform the financial components of a business case in a hands-on lab.
+- [Practice: Product Plan Phase Introduction](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W4/Practice-Product%20Plan%20Phase%20Introduction.md)
+- [Week 4 Quiz](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W4/Week-4-Quiz.md)
+## <a name='course3week5'><a/>**Week 5: Course Summary and Final Assessment**
+- In this module, you will explore the final projects used to test a learner's comprehension of the course material. The learners’ peers evaluate these final projects in a peer review assignment. You will discover the basics of peer reviews, including how to set up the rubrics and grading.
+- [Product Scenario](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Product%20Scenario.md)
+- [Final Project](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Final%20Project.md)
+- [Final Exam](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Product%20Scenario.md)

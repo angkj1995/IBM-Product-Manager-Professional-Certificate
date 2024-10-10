@@ -99,4 +99,4 @@ Table of contents
 - In this module, you will explore the final projects used to test a learner's comprehension of the course material. The learners’ peers evaluate these final projects in a peer review assignment. You will discover the basics of peer reviews, including how to set up the rubrics and grading.
 - [Product Scenario](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Product%20Scenario.md)
 - [Final Project](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Final%20Project.md)
-- [Final Exam](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Product%20Scenario.md)
+- [Final Exam](https://github.com/angkj1995/IBM-Product-Manager-Professional-Certificate/blob/main/Course-3/W5/Final-Exam.md)
